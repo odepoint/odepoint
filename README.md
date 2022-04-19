@@ -1,2 +1,2 @@
-# odepoint.github.io
-Owen DePoint
+# Owen DePoint
+High school senior pursuing computer science
